@@ -2,7 +2,7 @@
  * bmp180.c
  *
  *  Created on: Feb 17, 2022
- *      Author: Kazim YEL
+ *      Author: Ömer Can VURAL
  * 
  *  
  * This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation,

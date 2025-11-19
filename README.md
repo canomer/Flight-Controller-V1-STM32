@@ -7,5 +7,3 @@ In this project, a flight controller software was coded using MPU6050 Gyro and B
 More in PDF
 
 Co-authored-by: Kazım Yel <kazimyel@mail.com>
-
-Co-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
